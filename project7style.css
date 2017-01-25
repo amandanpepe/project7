@@ -1,9 +1,9 @@
-#main-headline { text-align: center;
+#main-headline { text-align:center;
                  color: blue;
 }
            
 
-h2 { text-align: center;
+h2 { text-align:center;
 }
 
 .place-description { font-family: verdana;
@@ -13,13 +13,13 @@ h2 { text-align: center;
 .person-description { color: purple;
 }
 
-.top-favorite { text-style: bold;
+.top-favorite { font-style: bold;
                 color: red;
 }
 
 .important-point { text-decoration: underline;
 }
 
-.emphasis { text-style: italics;
+.emphasis { font-style: italic;
 }
                    
